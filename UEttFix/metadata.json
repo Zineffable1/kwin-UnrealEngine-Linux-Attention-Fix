@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Id": "UEttFix",
+    "Name": "Unreal Tooltip Attention Fix",
+    "Description": "Stops unreal engine tooltips and menus demanding attention on the taskmanager",
+    "Authors": [
+      {
+        "Name": "Harly Walsh"
+      }
+    ],
+    "Version": "1.0",
+    "License": "MIT",
+    "EnabledByDefault": true
+  },
+  "ServiceTypes": ["KWin/Script"],
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "X-KDE-PluginInfo-Name": "UEttFix",
+  "KPackageStructure": "KWin/Script"
+}
